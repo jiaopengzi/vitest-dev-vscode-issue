@@ -1,6 +1,7 @@
 # vitest-dev-vscode-issue
 **error:There was an error during Vitest startup. Check the output for more details**
 
+[vitest-dev-vscode-issue 566](https://github.com/vitest-dev/vscode/issues/566)
 
 
 After `pnpm i` open the vscode editor
